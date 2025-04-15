@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-fr'
+title = 'Nathan Corneloup'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
